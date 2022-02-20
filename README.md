@@ -9,4 +9,4 @@
 
 
 
-![alt text](https://github.com/orshani1/DigitalATM_EFProject/blob/master/%E2%80%8F%E2%80%8F%D7%9C%D7%9B%D7%99%D7%93%D7%94.PNG?raw=true
+![alt text](https://raw.githubusercontent.com/OrGanon2/ElectronicStore_project/f8650a502716a4e46bdb7db1d2a85f55b2101c48/image.png)

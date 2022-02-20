@@ -1,0 +1,14 @@
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\bin\Debug\net6.0\DataBaseProduct.deps.json
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\bin\Debug\net6.0\DataBaseProduct.runtimeconfig.json
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\bin\Debug\net6.0\DataBaseProduct.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\bin\Debug\net6.0\ref\DataBaseProduct.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\bin\Debug\net6.0\DataBaseProduct.pdb
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\DataBaseProduct.csproj.AssemblyReference.cache
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\DataBaseProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\DataBaseProduct.AssemblyInfoInputs.cache
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\DataBaseProduct.AssemblyInfo.cs
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\DataBaseProduct.csproj.CoreCompileInputs.cache
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\DataBaseProduct.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\ref\DataBaseProduct.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\DataBaseProduct.pdb
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\DataBaseProduct.genruntimeconfig.cache

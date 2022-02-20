@@ -1,0 +1,14 @@
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\bin\Debug\net6.0\Hyperion_Store.DB.deps.json
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\bin\Debug\net6.0\Hyperion_Store.DB.runtimeconfig.json
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\bin\Debug\net6.0\Hyperion_Store.DB.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\bin\Debug\net6.0\ref\Hyperion_Store.DB.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\bin\Debug\net6.0\Hyperion_Store.DB.pdb
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\Hyperion_Store.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\Hyperion_Store.DB.AssemblyInfoInputs.cache
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\Hyperion_Store.DB.AssemblyInfo.cs
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\Hyperion_Store.DB.csproj.CoreCompileInputs.cache
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\Hyperion_Store.DB.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\ref\Hyperion_Store.DB.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\Hyperion_Store.DB.pdb
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\Hyperion_Store.DB.genruntimeconfig.cache
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\DataBaseProduct\obj\Debug\net6.0\Hyperion_Store.DB.csproj.AssemblyReference.cache

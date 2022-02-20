@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92914633-19f1-4c2c-8b28-85e8e952322b": {
+      "ProjectGuid": "92914633-19f1-4c2c-8b28-85e8e952322b",
+      "DisplayName": "Hyperion_Store",
+      "ColorIndex": 0
+    },
+    "7ce27680-5d92-48fe-8133-e22a9e03a21f": {
+      "ProjectGuid": "7ce27680-5d92-48fe-8133-e22a9e03a21f",
+      "DisplayName": "ElectronicStore_Project",
+      "ColorIndex": 1
+    },
+    "707ba293-abc9-454d-a22e-5b82374aeac9": {
+      "ProjectGuid": "707ba293-abc9-454d-a22e-5b82374aeac9",
+      "DisplayName": "DataBaseProduct",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e68799b7-b207-43c0-af63-0095b516bed1": {
+      "ProjectGuid": "e68799b7-b207-43c0-af63-0095b516bed1",
+      "DisplayName": "Hyperion_Store.Logic",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

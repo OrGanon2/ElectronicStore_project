@@ -1,0 +1,15 @@
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\obj\Debug\net6.0\Hyperion_Store.Logic.csproj.AssemblyReference.cache
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\obj\Debug\net6.0\Hyperion_Store.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\obj\Debug\net6.0\Hyperion_Store.Logic.AssemblyInfoInputs.cache
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\obj\Debug\net6.0\Hyperion_Store.Logic.AssemblyInfo.cs
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\obj\Debug\net6.0\Hyperion_Store.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\bin\Debug\net6.0\Hyperion_Store.Logic.deps.json
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\bin\Debug\net6.0\Hyperion_Store.Logic.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\bin\Debug\net6.0\ref\Hyperion_Store.Logic.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\bin\Debug\net6.0\Hyperion_Store.Logic.pdb
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\bin\Debug\net6.0\Hyperion_Store.DB.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\bin\Debug\net6.0\Hyperion_Store.DB.pdb
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\obj\Debug\net6.0\Hyperion_Store.Logic.csproj.CopyComplete
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\obj\Debug\net6.0\Hyperion_Store.Logic.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\obj\Debug\net6.0\ref\Hyperion_Store.Logic.dll
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Hyperion_Store.Logic\obj\Debug\net6.0\Hyperion_Store.Logic.pdb

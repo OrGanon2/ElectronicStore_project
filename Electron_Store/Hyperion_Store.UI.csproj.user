@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Computers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ForgotPassword.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ForgotPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Laptops.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Monitors.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Phones.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

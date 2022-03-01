@@ -80,5 +80,22 @@ namespace Electron_Store
             ForgotPasswordForm forgotPassword = new ForgotPasswordForm();
             forgotPassword.ShowDialog();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            SignIn signin = new SignIn();
+            signin.ShowDialog();
+        }
+
+        private void label2_MouseEnter(object sender, EventArgs e)
+        {
+            label2.Font = new Font(label2.Font.FontFamily,label2.Font.SizeInPoints,FontStyle.Underline);
+        }
+
+        private void label2_MouseLeave(object sender, EventArgs e)
+        {
+            label2.Font = new Font(label2.Font.FontFamily, label2.Font.SizeInPoints, FontStyle.Regular);
+
+        }
     }
 }

@@ -40,5 +40,26 @@ namespace Hyperion_Store.Logic
                 
             };
         }
+        public void CreateAccount(string firstname,string lastname,string email,string country, string city, string address,string username,string password)
+        {
+           
+            using (var db = new Electronic_storeContext())
+            {
+                Customer newCustomer = new Customer()
+                {
+                    FirstName = firstname,
+                    LastName = lastname,
+                    Email = email,
+                    Country = country,
+                    City = city,
+                    Adress = address,
+                    UserName = username,
+                    Password = password
+
+                };
+                db.Customers.Add(newCustomer);
+                db.SaveChanges();
+            }
+        }
     }
 }

@@ -31,5 +31,8 @@
     <Compile Update="Phones.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

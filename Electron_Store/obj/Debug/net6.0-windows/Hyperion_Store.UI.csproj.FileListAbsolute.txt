@@ -67,3 +67,4 @@ C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Electron_Store\bin\Debug\
 C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Electron_Store\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
 C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Electron_Store\obj\Debug\net6.0-windows\Electron_Store.LoginMenu.resources
 C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Electron_Store\obj\Debug\net6.0-windows\Hyperion_Store.UI.ForgotPasswordForm.resources
+C:\Users\Or Ganon\source\repos\ElectronicStore_Project\Electron_Store\obj\Debug\net6.0-windows\Hyperion_Store.UI.SignIn.resources

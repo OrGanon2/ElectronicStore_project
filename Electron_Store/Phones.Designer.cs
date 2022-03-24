@@ -45,7 +45,6 @@
             this.dataGridView1.RowTemplate.Height = 29;
             this.dataGridView1.Size = new System.Drawing.Size(939, 198);
             this.dataGridView1.TabIndex = 3;
-            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // Add
             // 
@@ -63,7 +62,6 @@
             this.addBox.Name = "addBox";
             this.addBox.Size = new System.Drawing.Size(156, 27);
             this.addBox.TabIndex = 10;
-            this.addBox.TextChanged += new System.EventHandler(this.addBox_TextChanged);
             // 
             // label2
             // 
@@ -73,7 +71,6 @@
             this.label2.Size = new System.Drawing.Size(107, 20);
             this.label2.TabIndex = 11;
             this.label2.Text = "Enter Phone ID";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // Phones
             // 

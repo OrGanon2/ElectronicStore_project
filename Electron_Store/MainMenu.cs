@@ -1,14 +1,6 @@
-﻿using Hyperion_Store.DB.DataProduct;
-using Electron_Store;
+﻿using Electron_Store;
 using Hyperion_Store.UI;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Hyperion_Store
@@ -29,14 +21,7 @@ namespace Hyperion_Store
             containerPanel.Controls.Add(phones);
             phones.Dock = DockStyle.Fill;
             phones.BringToFront();
-
-            
-
-           
-
-                phones.Show();
-
-
+            phones.Show();
         }
 
         private void MainMenu_Load(object sender, EventArgs e)
@@ -49,10 +34,6 @@ namespace Hyperion_Store
             menu.BringToFront();
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
 
         private void DesktopPCButton_Click(object sender, EventArgs e)
         {

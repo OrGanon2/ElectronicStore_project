@@ -3,7 +3,7 @@ using Hyperion_Store.DB.DataProduct;
 
 namespace Hyperion_Store.Logic
 {
-    public class CustomerMethods : ICustomerOrders
+    public class CustomerMethods : ICustomerOrders 
     {
         public static CustomerMethods _instance { get; set; } = null;
         private CustomerMethods()
@@ -45,6 +45,7 @@ namespace Hyperion_Store.Logic
            
             using (var db = new Electronic_storeContext())
             {
+
                 Customer newCustomer = new Customer()
                 {
                     FirstName = firstname,

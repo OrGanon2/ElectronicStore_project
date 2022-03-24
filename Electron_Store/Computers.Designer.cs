@@ -63,7 +63,6 @@
             this.DesktopText.Name = "DesktopText";
             this.DesktopText.Size = new System.Drawing.Size(125, 27);
             this.DesktopText.TabIndex = 0;
-            this.DesktopText.TextChanged += new System.EventHandler(this.DesktopText_TextChanged);
             // 
             // label2
             // 

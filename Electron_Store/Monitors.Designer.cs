@@ -62,7 +62,6 @@
             this.MontiorText.Name = "MontiorText";
             this.MontiorText.Size = new System.Drawing.Size(125, 27);
             this.MontiorText.TabIndex = 10;
-            this.MontiorText.TextChanged += new System.EventHandler(this.MontiorText_TextChanged);
             // 
             // label2
             // 

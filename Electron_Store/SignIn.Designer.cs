@@ -79,29 +79,29 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(109, 79);
+            this.label1.Location = new System.Drawing.Point(102, 82);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(78, 20);
+            this.label1.Size = new System.Drawing.Size(84, 20);
             this.label1.TabIndex = 5;
-            this.label1.Text = "first Name";
+            this.label1.Text = "first Name*";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(107, 143);
+            this.label2.Location = new System.Drawing.Point(102, 146);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(79, 20);
+            this.label2.Size = new System.Drawing.Size(85, 20);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Last Name";
+            this.label2.Text = "Last Name*";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(140, 205);
+            this.label3.Location = new System.Drawing.Point(135, 205);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(46, 20);
+            this.label3.Size = new System.Drawing.Size(52, 20);
             this.label3.TabIndex = 7;
-            this.label3.Text = "Email";
+            this.label3.Text = "Email*";
             // 
             // label4
             // 
@@ -163,18 +163,18 @@
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(501, 202);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(82, 20);
+            this.label7.Size = new System.Drawing.Size(88, 20);
             this.label7.TabIndex = 16;
-            this.label7.Text = "User Name";
+            this.label7.Text = "User Name*";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
             this.label8.Location = new System.Drawing.Point(513, 276);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(70, 20);
+            this.label8.Size = new System.Drawing.Size(76, 20);
             this.label8.TabIndex = 17;
-            this.label8.Text = "Password";
+            this.label8.Text = "Password*";
             // 
             // button1
             // 

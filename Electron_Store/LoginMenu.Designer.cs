@@ -69,6 +69,7 @@
             // PasswordTextBox
             // 
             this.PasswordTextBox.BackColor = System.Drawing.Color.Gray;
+            this.PasswordTextBox.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.PasswordTextBox.Location = new System.Drawing.Point(396, 298);
             this.PasswordTextBox.Name = "PasswordTextBox";
             this.PasswordTextBox.Size = new System.Drawing.Size(268, 27);

@@ -3,13 +3,7 @@ using Electron_Store;
 using Hyperion_Store.Logic;
 using Hyperion_Store.UI;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
@@ -31,19 +25,21 @@ namespace Hyperion_Store
 
         private void AddButton_Click(object sender, EventArgs e)
         {
+
             IOrders ordersManagament = new OrdersMethods();//polimoprhisem דו פרצופיות 
             var order = ordersManagament.CreateOrderInstance(Convert.ToInt32(MontiorText.Text), LoginMenu.ThisCustomer, "monitor");
-            Cart.Orderlist.Add(order);
+            if (order == null)
+            {
+                MessageBox.Show("invalid infromation choose the id from the list");
+            }
+            else
+            {
+                Cart.Orderlist.Add(order);
+            }
+           
         }
 
-        private void MontiorText_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
+     
+      
     }
 }

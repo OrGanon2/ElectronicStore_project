@@ -4,13 +4,7 @@ using Hyperion_Store.DB.DataProduct;
 using Hyperion_Store.Logic;
 using Hyperion_Store.UI;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Hyperion_Store
@@ -26,7 +20,15 @@ namespace Hyperion_Store
         {
            IOrders ordersManagament = new OrdersMethods();//polimoprhisem דו פרצופיות 
             var order = ordersManagament.CreateOrderInstance(Convert.ToInt32(addBox.Text),LoginMenu.ThisCustomer,"laptop");
-            Cart.Orderlist.Add(order);
+            if (order == null)
+            {
+                MessageBox.Show("invalid infromation choose the id from the list");
+            }
+            else
+            {
+                Cart.Orderlist.Add(order);
+            }
+           
 
 
         }
@@ -38,6 +40,8 @@ namespace Hyperion_Store
                 dataGridView1.DataSource = db.Laptops.ToList();
             };
         }
+
+       
     }
 }
 //using (var db = new Electronic_storeContext())

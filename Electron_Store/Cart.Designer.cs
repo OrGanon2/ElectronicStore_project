@@ -46,7 +46,6 @@
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(910, 184);
             this.listBox1.TabIndex = 0;
-            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // groupBox1
             // 
@@ -58,7 +57,6 @@
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Total Pay";
-            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // priceLabel
             // 
@@ -69,7 +67,6 @@
             this.priceLabel.Size = new System.Drawing.Size(54, 28);
             this.priceLabel.TabIndex = 0;
             this.priceLabel.Text = "Price";
-            this.priceLabel.Click += new System.EventHandler(this.priceLabel_Click);
             // 
             // removeButton
             // 
